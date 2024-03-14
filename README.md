@@ -2,7 +2,7 @@
 
 - 🤔 Conhecendo novas tecnologias e desenvolvendo aplicações.
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
-- 🌱 Aprendendo mais sobre Javacript e Docker.
+- 🌱 Aprendendo mais sobre python e mongodb.
 
 ## Minhas Skills
 
