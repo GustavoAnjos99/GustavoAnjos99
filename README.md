@@ -1,3 +1,4 @@
+![status](profile-3d-contrib/profile-night-rainbow.svg)
 ## Sobre mim
 
 - 👨‍💻 Conhecendo novas tecnologias e desenvolvendo aplicações.
